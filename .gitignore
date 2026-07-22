@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated HKIA output files
+hkia_*.csv
+hkia_*.xlsx
+
+# Local secrets
+.env
+
+# Operating-system files
+.DS_Store
+Thumbs.db
