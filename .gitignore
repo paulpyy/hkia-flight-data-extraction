@@ -9,9 +9,13 @@ __pycache__/
 hkia_*.csv
 hkia_*.xlsx
 
+# Compressed review packages
+*.zip
+
 # Local secrets
 .env
 
 # Operating-system files
 .DS_Store
 Thumbs.db
+
